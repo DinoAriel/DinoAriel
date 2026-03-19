@@ -1,7 +1,7 @@
 # Halo, saya Dino Ariel Ihsan Saputra 👋
 
 🎓 Mahasiswa Politeknik Elektronika Negeri Surabaya  
-💻 Tertarik di bidang Web Development & Mobile Development  
+💻 Tertarik di bidang UI/UX, System Architecture, Web Development & Mobile Development  
 🌱 Sedang belajar Flutter & Laravel  
 
 ---
